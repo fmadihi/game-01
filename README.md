@@ -1,2 +1,5 @@
 # game-01
-this is a game with user and computer.
+
+It is a user-computer game.
+The user chooses heads or tails.
+If the user's choice equals the computer's choice, the user wins, otherwise the computer wins.
